@@ -12,7 +12,7 @@ A set of TouchDesigner utilities and projects for audiovisual work, tested on Wi
 - **dir-watcher**
     Populate a Table DAT with arbitrary directory (files with sizes and last-modified, also hidden).
 - **extensions**
-    Template for abstractions (e.g.) -> op('xyz').myFunction() wrapped within a Container object with GUI visibility.
+    Template for abstractions (e.g.): `op('xyz').myFunction()` wrapped within a Container object with GUI visibility.
 - **feedback-shape-saver**
     Simple primitive shape color feedback with Movie File Out TOP export (composite on transparent background).
 - **get-running-apps**
@@ -26,15 +26,15 @@ A set of TouchDesigner utilities and projects for audiovisual work, tested on Wi
 - **link-two-containers**
     A simple Select CHOP operator showing widget on container A triggered on container B (same logic as "send" and "receive" in MaxMSP).
 - **midi-to-vst**
-    Simple boolean logic to send onNoteOn() and onNoteOff() to arbitrary VST3s.
+    Simple boolean logic to send `onNoteOn()` and `onNoteOff()` to arbitrary VST3s.
 - **open-apps**
-    Launch .exe applications found in provided paths, e.g. "C:\\Program Files (x86)", threaded search from string input.
+    Launch .exe applications found in provided paths, e.g. `"C:\\Program Files (x86)"`, threaded search from string input.
 - **resolume-xml-parser**
     Parse a Resolume XML file with mapping values into a Table DAT (composition example with 2 layers).
 - **subprocess**
     Execute a request from a file on the same folder deriving paths (hides CMD using opened TD session).
 - **tcp-io**
-    Simple server to illustrate TCP io between TouchDesigner session DAT and CMD (start tcp_server.py first).
+    Simple server to illustrate TCP io between TouchDesigner session DAT and CMD (start `tcp_server.py` first).
 - **timer-subtitles-3d**
     Reads randomly generated sentences from a Table DAT, works on timer and displays with geometry to texture.
 

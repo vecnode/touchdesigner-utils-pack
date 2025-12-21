@@ -7,6 +7,7 @@ A set of TouchDesigner utilities and projects for audiovisual work, tested on Wi
 - **dir-mapper-2d-slider**: Creates a GLSL grid map from the number of files within an input directory, 2D Slider file navigator.
 - **dir-watcher**: Populate a Table DAT with arbitrary directory (files with sizes and last-modified, also hidden).
 - **extensions**: Template for abstractions (e.g.): `op('xyz').myFunction()` wrapped within a Container object with GUI visibility.
+- **feedback-blur**: Fragment shader combining two input textures using additive blending with opacity control.
 - **feedback-shape-saver**: Simple primitive shape color feedback with Movie File Out TOP export (composite on transparent background).
 - **get-running-apps**: Populate Table DAT with running processes, PID, session name and memory usage (like task manager, hides CMD).
 - **glsl1-barrel**: `BarrelDistortion.frag` shader on input video file, affects 4 corners.
@@ -17,9 +18,10 @@ A set of TouchDesigner utilities and projects for audiovisual work, tested on Wi
 - **open-apps**: Launch .exe applications found in provided paths, e.g. `"C:\\Program Files (x86)"`, threaded search from string input.
 - **resolume-xml-parser**: Parse a Resolume XML file with mapping values into a Table DAT (composition example with 2 layers).
 - **subprocess**: Execute a request from a file on the same folder deriving paths (hides CMD using opened TD session).
-- **tcp-io**: Simple server to illustrate TCP io between TouchDesigner session DAT and CMD (start `tcp_server.py` first).
+- **tcp-io**: Simple server with TCP io between TouchDesigner session DAT and CMD (start `tcp_server.py` first).
 - **timer-subtitles-3d**: Reads randomly generated sentences from a Table DAT, works on timer and displays with geometry to texture.
 - **venv-creator**: Creates a separate `venv\` (blocking), installs numpy and adds to `sys`, `import numpy as np` works then.
+- **video-mosaic-wall**: Creates a 10x10 video mosaic in Geometry from `Texture 3D`.
 - **web-server-internal**: Internal Web Server DAT with external communication such as `tcp-io` folder.
 
 

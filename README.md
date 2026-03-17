@@ -1,6 +1,6 @@
 ## TouchDesigner utilities pack
 
-A set of TouchDesigner utilities and projects and algorithms, tested Windows 11 and RTX 3090/3070.
+A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/3070.
 
 
 - [akai-apc40mk2-midi](apc40mk2-midi): Template for Akai APC40MK2 MIDI Controller, tested TouchDesigner 2022.32120. Requires to set the MIDI mapping dialog as device in. The MIDI codes are set for callback automatically at startup.

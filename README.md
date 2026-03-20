@@ -3,7 +3,7 @@
 A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/3070.
 
 
-- [akai-apc40mk2-midi](apc40mk2-midi): Template for Akai APC40MK2 MIDI Controller, tested TouchDesigner 2022.32120. Requires to set the MIDI mapping dialog as device in. The MIDI codes are set for callback automatically at startup.
+- [akai-apc40mk2-midi](akai-apc40mk2-midi): Template for Akai APC40MK2 MIDI Controller, tested TouchDesigner 2022.32120. Requires to set the MIDI mapping dialog as device in. The MIDI codes are set for callback automatically at startup.
 
 - [audio-mixer-fades](audio-mixer-fades): Trigger independent audio track fade in/out on button click, able to range, and master on/off (from 0-1).
 
@@ -40,6 +40,8 @@ A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/30
 - [subprocess](subprocess): Execute a request from a file on the same folder deriving paths (hides CMD using opened TD session).
 
 - [tcp-io](tcp-io): Server with TCP io between TouchDesigner session DAT and CMD (start `tcp_server.py` first).
+
+- [timecode-txt-matcher](timecode-txt-matcher): Matches the cycles of a Timer CHOP with a text file with timecodes per line: `00:00:05, chan3, random`, a continuous event executor. Tested TouchDesigner 2025.32460.
 
 - [timer-subtitles-3d](timer-subtitles-3d): Reads randomly generated sentences from a Table DAT, works on timer and displays with geometry to texture.
 

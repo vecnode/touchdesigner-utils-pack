@@ -1,8 +1,3 @@
-
-
-# vecnode 18-12-2025
-# setting up global mixer values
-
 # volume1 ... volumex = channels of the mixer
 # no work has been done on the db scale
 

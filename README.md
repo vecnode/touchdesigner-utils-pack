@@ -2,8 +2,9 @@
 
 A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/3070.
 
+- [akai-apc40mk2-colors](akai-apc40mk2-colors): Control 8x5 pad colors on Akai APC40MK2 MIDI Controller, tested TouchDesigner 2025.32460.
 
-- [akai-apc40mk2-midi](akai-apc40mk2-midi): Template for Akai APC40MK2 MIDI Controller, tested TouchDesigner 2022.32120. Requires to set the MIDI mapping dialog as device in. The MIDI codes are set for callback automatically at startup.
+- [akai-apc40mk2-midi](akai-apc40mk2-midi): MIDI template for Akai APC40MK2 MIDI Controller, tested TouchDesigner 2022.32120. Requires to set the MIDI mapping dialog as device in. The MIDI codes are set for callback automatically at startup.
 
 - [audio-mixer-fades](audio-mixer-fades): Trigger independent audio track fade in/out on button click, able to range, and master on/off (from 0-1).
 

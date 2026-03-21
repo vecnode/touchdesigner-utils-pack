@@ -34,6 +34,8 @@ A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/30
 
 - [midi-to-vst](midi-to-vst): Boolean logic to send `onNoteOn()` and `onNoteOff()` to arbitrary VST3s.
 
+- [numpy-noise-img](numpy-noise-img): A script using `numpyArray` with Script TOP to create noise on incoming video. 
+
 - [open-apps](open-apps): Launch `.exe` applications found in provided paths, e.g. `"C:\\Program Files (x86)"`, threaded search from string input.
 
 - [resolume-xml-parser](resolume-xml-parser): Parse a Resolume XML file with mapping values into a Table DAT (composition example with 2 layers).

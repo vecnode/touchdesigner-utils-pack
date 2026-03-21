@@ -38,6 +38,8 @@ A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/30
 
 - [numpy-noise-img](numpy-noise-img): A script using `numpyArray` with Script TOP to create noise on incoming video, tested TouchDesigner 2025.32460.
 
+- [numpy-pixelate-img](numpy-pixelate-img): A script using `numpyArray` with Script TOP to pixelate (mosaic) incoming video, tested TouchDesigner 2025.32460.
+
 - [open-apps](open-apps): Launch `.exe` applications found in provided paths, e.g. `"C:\\Program Files (x86)"`, threaded search from string input.
 
 - [resolume-xml-parser](resolume-xml-parser): Parse a Resolume XML file with mapping values into a Table DAT (composition example with 2 layers).

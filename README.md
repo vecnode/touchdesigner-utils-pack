@@ -28,6 +28,8 @@ A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/30
 
 - [glsl2-pingpong](glsl2-pingpong): Ping-Pong Delay shader, feedback 0-1 (using `.vs` file).
 
+- [glsl3-kaleidoscope](glsl3-kaleidoscope): Kaleidoscope GLSL shader, exposes division and rotation controls (using `.frag` file).
+
 - [ig20-iegeekcam](ig20-iegeekcam): IG-20 ieGeek IP camera video stream player for TouchDesigner, tested: 2022.32120. Comes with an arp scanner for local network and blob track. The equipment has sensor-triggered night vision shown in the floating window.
 
 - [info-getter](info-getter): A Text DAT execution on video file finish, creates a callback from video info channel.

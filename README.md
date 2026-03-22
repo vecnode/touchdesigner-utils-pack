@@ -30,6 +30,8 @@ A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/30
 
 - [info-getter](info-getter): A Text DAT execution on video file finish, creates a callback from video info channel.
 
+- [kohonen-map-2d](kohonen-map-2d): A 2D Kohonen Self-Organising Map in raw Python training 400 epochs (async mode does not break UI), tested TouchDesigner 2025.32460.
+
 - [link-two-containers](link-two-containers): A Select CHOP operator showing widget on container A triggered on container B (same logic as "send" and "receive" in MaxMSP).
 
 - [midi-to-vst](midi-to-vst): Boolean logic to send `onNoteOn()` and `onNoteOff()` to arbitrary VST3s.

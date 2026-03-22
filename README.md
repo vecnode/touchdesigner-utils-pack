@@ -46,6 +46,8 @@ A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/30
 
 - [open-apps](open-apps): Launch `.exe` applications found in provided paths, e.g. `"C:\\Program Files (x86)"`, threaded search from string input.
 
+- [openrouter-web-client](openrouter-web-client): Communication with OpenRouter API using Web Client DAT, tested TouchDesigner 2025.32460 and `nvidia/nemotron-nano-12b-v2-vl:free` model.
+
 - [resolume-xml-parser](resolume-xml-parser): Parse a Resolume XML file with mapping values into a Table DAT (composition example with 2 layers).
 
 - [subprocess](subprocess): Execute a request from a file on the same folder deriving paths (hides CMD using opened TD session).

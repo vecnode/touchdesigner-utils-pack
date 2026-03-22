@@ -63,7 +63,8 @@ A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/30
 - [web-server-internal](web-server-internal): Internal Web Server DAT with external communication such as `tcp-io` folder.
 
 
-Related repositories:
-1. https://github.com/vecnode/touchdesigner-apc40mk2-midi
-2. https://derivative.ca/
-
+References:
+1. https://derivative.ca/
+2. https://www.resolume.com/
+3. https://ollama.com/
+4. https://www.akaipro.com/

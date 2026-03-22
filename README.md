@@ -10,6 +10,8 @@ A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/30
 
 - [audio-play-callback](audio-play-callback): Custom callback on sample length of an Audio Play CHOP to allow logic when audio files stop playing (trigger a panel when audio finishes).
 
+- [csv-reader](csv-reader): Reads CSV files into a Table DAT using raw Python.
+
 - [dir-mapper-2d-slider](dir-mapper-2d-slider): Creates a GLSL grid map from the number of files within an input directory, 2D Slider file navigator.
 
 - [dir-watcher](dir-watcher): Populate a Table DAT with arbitrary directory (files with sizes and last-modified, also hidden).

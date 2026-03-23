@@ -22,6 +22,8 @@ A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/30
 
 - [feedback-shape-saver](feedback-shape-saver): Primitive shape color feedback with Movie File Out TOP export (composite on transparent background).
 
+- [ffmpeg-export-img](ffmpeg-export-img): Use `FFMPEG` to export an image from a Null TOP of the same size, tested TouchDesigner 2025.32460.
+
 - [get-running-apps](get-running-apps): Populate Table DAT with running processes, PID, session name and memory usage (like task manager, hides CMD).
 
 - [glsl1-barrel](glsl1-barrel): `BarrelDistortion.frag` shader on input video file, affects 4 corners.

@@ -9,6 +9,8 @@ A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/30
 
   - [audio-play-callback](audio-play-callback): Custom callback on sample length of an Audio Play CHOP to allow logic when audio files stop playing (trigger a panel when audio finishes).
 
+  - [audio-get-metadata](audio-get-metadata): Get audio file metadata and operator load using Python, tested TouchDesigner 2025.32460.
+
 
 - [control-input](control-input)
 

@@ -5,11 +5,11 @@ A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/30
 
 - [audio](audio)
 
-  - [audio-mixer-fades](audio-mixer-fades): Trigger independent audio track fade in/out on button click, able to range, and master on/off (from 0-1).
+  - [audio-mixer-fades](audio/audio-mixer-fades/): Trigger independent audio track fade in/out on button click, able to range, and master on/off (from 0-1).
 
-  - [audio-play-callback](audio-play-callback): Custom callback on sample length of an Audio Play CHOP to allow logic when audio files stop playing (trigger a panel when audio finishes).
+  - [audio-play-callback](audio/audio-play-callback): Custom callback on sample length of an Audio Play CHOP to allow logic when audio files stop playing (trigger a panel when audio finishes).
 
-  - [audio-get-metadata](audio-get-metadata): Get audio file metadata and operator load using Python, tested TouchDesigner 2025.32460.
+  - [audio-get-metadata](audio/audio-get-metadata): Get audio file metadata and operator load using Python, tested TouchDesigner 2025.32460.
 
 
 - [control-input](control-input)

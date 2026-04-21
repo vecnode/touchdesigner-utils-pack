@@ -88,6 +88,8 @@ A set of TouchDesigner utilities and projects, tested Windows 11 and RTX 3090/30
 
   - [openrouter-web-client](network-ai/openrouter-web-client): Communication with OpenRouter API using Web Client DAT, tested TouchDesigner 2025.32460 and `nvidia/nemotron-nano-12b-v2-vl:free` model.
 
+  - [openstreetmap-search](network-ai/openstreetmap-search): Search OpenStreetMap and render to texture, input a string with the location, tested TouchDesigner 2025.31310.
+
   - [tcp-io](network-ai/tcp-io): Server with TCP io between TouchDesigner session DAT and CMD (start `tcp_server.py` first).
 
   - [web-server-internal](network-ai/web-server-internal): Internal Web Server DAT with external communication such as `tcp-io` folder.
@@ -100,3 +102,4 @@ References:
 3. https://ollama.com/
 4. https://www.akaipro.com/
 5. https://openrouter.ai/
+6. https://www.openstreetmap.org/
